@@ -1,0 +1,4 @@
+.fuse*
+*.pyc
+/env
+*.sqlite
